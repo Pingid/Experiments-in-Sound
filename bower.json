@@ -1,0 +1,17 @@
+{
+  "name": "Experiments-in-Sound",
+  "homepage": "https://github.com/Pingid/Experiments-in-Sound",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Wad": "wad#^2.6.1"
+  }
+}
